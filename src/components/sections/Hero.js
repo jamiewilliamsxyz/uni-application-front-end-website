@@ -9,8 +9,8 @@ const StyledHero = styled.div`
   color: white;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
-  gap: 16%;
+  justify-content: center;
+  gap: 12%;
   padding: 0rem 2rem 3rem 2rem;
   position: relative;
 
