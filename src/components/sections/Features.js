@@ -6,7 +6,7 @@ import FBox from '../ui/FBox';
 const placeholderText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.'
 
 const StyledFeatures = styled.div`
-  background-color: #121212;
+  background-color: #191919;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -70,10 +70,6 @@ const StyledFeatures = styled.div`
     font-size: 0.88rem;
     color: #545454;
   }
-
-  Button {
-    font-size: 1.22rem;
-  }
 `;
 
 const Features = () => {
@@ -93,7 +89,7 @@ const Features = () => {
         </div>
       </div>
       <p className='note'>Hover/Click over a feature for more details</p>
-      <Button text="Don't Miss Out" page='/product'/>
+      <Button text="Check Out" page='/product'/>
     </StyledFeatures>
   );
 };

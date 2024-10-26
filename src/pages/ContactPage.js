@@ -5,7 +5,7 @@ import Form from '../components/sections/Form';
 
 const StyledContactPage = styled.div`
   color: white;
-  background-color: #141414;
+  background-color: #191919;
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -12,7 +12,7 @@ const StyledBenefits = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #141414;
+  background-color: #1f1f1f;
   padding: 0.5rem 2rem 3rem 2rem;
   
   h3 {

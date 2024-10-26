@@ -38,7 +38,7 @@ const StyledNav = styled.nav`
     div {
       width: 2rem;
       height: 0.25rem;
-      background-color: #121212;
+      background-color: #171717;
       margin: 0.3rem 0;
       transition: all 0.3s ease;
     }

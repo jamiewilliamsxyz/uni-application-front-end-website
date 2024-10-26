@@ -6,7 +6,7 @@ import text from '../assets/text.json';
 const StyledTermsPage = styled.div`
   display: flex;
   flex-direction: column;
-  background: #141414;
+  background: #191919;
   color: white;
 
   h3 {

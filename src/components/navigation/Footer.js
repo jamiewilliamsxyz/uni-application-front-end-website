@@ -8,7 +8,7 @@ import smallLogo from '../../images/smalllogo.png';
 
 const StyledFooter = styled.footer`
   background-color: white;
-  color: #121212;
+  color: #191919;
   bottom: 0;
   width: 100%;
   padding: 1rem 0;

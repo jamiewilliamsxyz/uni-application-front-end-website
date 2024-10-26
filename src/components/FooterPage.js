@@ -4,7 +4,7 @@ import text from '../assets/text.json';
 
 const StyledFooterPage = styled.div`
   color: white;
-  background-color: #121212;
+  background-color: #191919;
   height: 100vh;
 
 

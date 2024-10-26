@@ -8,7 +8,7 @@ const StyledCTA = styled.div`
   align-items: center;
   flex-direction: column;
   text-align: center;
-  background-color: #141414;
+  background-color: #1f1f1f;
   padding: 0.5rem 0rem 3rem 0rem;
   color: white;
 

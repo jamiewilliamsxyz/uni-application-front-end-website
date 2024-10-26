@@ -10,7 +10,7 @@ const StyledFAQ = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #121212;
+  background-color: #191919;
   padding: 0.5rem 2rem 3rem 2rem;
 
   h3 {

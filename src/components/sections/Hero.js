@@ -5,7 +5,7 @@ import Button from '../ui/Button';
 import michero from '../../images/michero.png'
 
 const StyledHero = styled.div`
-  background-color: #121212;
+  background-color: #191919;
   color: white;
   display: flex;
   flex-direction: row;

@@ -6,7 +6,7 @@ import styled from 'styled-components';
 
 const StyledSetupPage = styled.div`
   color: white;
-  background-color: #141414;
+  background-color: #191919;
   display: flex;
   flex-direction: column;
   align-items: center;
